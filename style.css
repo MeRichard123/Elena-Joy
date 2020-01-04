@@ -289,7 +289,8 @@ nav {
 .form-wrapper label {
   display: block;
 }
-.form-wrapper input {
+.form-wrapper input,
+textarea {
   display: block;
   margin: 3rem 0rem;
   background: var(--main-color);
