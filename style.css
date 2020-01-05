@@ -298,7 +298,7 @@ nav {
   border: none;
   padding: 1rem;
 }
-.form-wrapper button {
+.button {
   padding: 1rem 8rem;
   background: var(--special-color);
   color: white;
